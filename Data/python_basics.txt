@@ -1,0 +1,7 @@
+print(): This function outputs data to the standard output device.
+
+def: Used to define a function in Python. Functions encapsulate blocks of code for reuse.
+
+list.append(): Adds a single element to the end of a list.
+
+try...except: Used for handling exceptions in Python. Helps avoid program crashes.
